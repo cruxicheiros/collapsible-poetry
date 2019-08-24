@@ -1,0 +1,25 @@
+.linebox {
+  float: left;
+  width: 100%;
+}
+
+.text {
+  width: 100%;
+}
+
+.spacer {
+  height: 1px;
+  float: left;
+}
+
+.one {
+  width: 1em;
+}
+
+.four {
+  width: 4em;
+}
+
+.eight {
+  width: 8em;
+}
